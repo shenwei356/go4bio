@@ -40,10 +40,10 @@ Official site: [https://golang.org/](https://golang.org/)
 
 ### Disadvantages
 
-- Lacking of bioinformatical libraries, you may reinvent the wheels.
+- Lacking of bioinformatical libraries, you may reinvent wheels.
 - To be added.
 
-### Should I use
+### Should I learn
 
 You should try if you
 
@@ -88,6 +88,7 @@ Golang
 
 ## Tools
 
+
 Libraries
 
 - [biogo](https://github.com/biogo/biogo) - biogo is a bioinformatics library for Go
@@ -102,3 +103,8 @@ Tools
 - [SeqKit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang http://shenwei356.github.io/seqkit
 - [gsort](https://github.com/brentp/gsort) - sort genomic data
 - [fastcov](http://yanlilab.github.io/fastcov/) - A novel algorithm for detecting multiple covariance and clustering of biological sequences
+
+Others
+
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software http://awesome-go.com/
+- [shenwei356's awesome-go](https://github.com/shenwei356/awesome/blob/master/golang.md)
