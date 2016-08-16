@@ -2,7 +2,7 @@
 
 ## About Golang
 
-Wikipedia:
+[Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
 
 > Open source programming language created at Google in 2007 by Robert Griesemer,
  Rob Pike, and Ken Thompson.
@@ -14,7 +14,7 @@ Official site: [https://golang.org/](https://golang.org/)
 
 ### Advantages
 
-- Easy to deply, surports cross-compilation.
+- Easy to deploy, surports cross-compilation.
 
   部署简单，跨平台编译。Go编译生成各流行操作系统的二进制文件，直接运行即可，无依赖。
 
@@ -30,7 +30,7 @@ Official site: [https://golang.org/](https://golang.org/)
 
   语言级别的并发支持。
 
-- Good language design, full tool-chain
+- Good language design, full tool-chains.
 
   关键字少，语法简单，工具链完善。
 
@@ -40,15 +40,29 @@ Official site: [https://golang.org/](https://golang.org/)
 
 ### Disadvantages
 
-
+- Lacking of bioinformatical libraries, you may reinvent the wheels.
+- To be added.
 
 ### Should I use
+
+You should try if you
+
+- Want to write some high-performance tools in short time.
+- Want to protect your source code.
+- Tired of complicated installation, deployment and configuration process.
+- Tired of bewildering symbols of Perl, and slow speed of Python.
+- Tired of the long compilation time and complication of C++.
+
+You may think carefully if you
+
+- Have no programming experience.
+- Want to write tools with GUI.
 
 ## Try
 
 - [A Tour of Go](https://tour.golang.org/)
 
-## Discussion
+## Discussions
 
 Golang in Bioinformatcis
 
@@ -64,15 +78,17 @@ Golang
 
 ## Books
 
+- [GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 
 ## Talks
 
+- [GoTalks](https://github.com/golang/go/wiki/GoTalks)
 - [Go talks](https://talks.golang.org/)
 
 ## Tools
 
-Library
+Libraries
 
 - [biogo](https://github.com/biogo/biogo) - biogo is a bioinformatics library for Go
 - [go](https://github.com/shenwei356/bio) - A lightweight and high-performance bioinformatics package in Go
