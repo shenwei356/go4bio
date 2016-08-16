@@ -41,7 +41,7 @@ Official site: [https://golang.org/](https://golang.org/)
 ### Disadvantages
 
 - Lacking of bioinformatical libraries, you may reinvent wheels.
-- To be added.
+- To be added...
 
 ### Should I learn
 
@@ -92,7 +92,7 @@ Golang
 Libraries
 
 - [biogo](https://github.com/biogo/biogo) - biogo is a bioinformatics library for Go
-- [go](https://github.com/shenwei356/bio) - A lightweight and high-performance bioinformatics package in Go
+- [bio](https://github.com/shenwei356/bio) - A lightweight and high-performance bioinformatics package in Go
 - [irelate](https://github.com/brentp/irelate) - Streaming relation (overlap, distance, KNN) of (any number of) sorted genomic interval sets. #golang
 - [hts](https://github.com/biogo/hts) - biogo high throughput sequencing repository
 - [cfgo](https://github.com/brentp/vcfgo) - a golang library to read, write and manipulate files in the variant call format.
